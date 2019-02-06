@@ -58,8 +58,8 @@ export default {
   },
   data() {
     return {
-      email: "",
-      password: ""
+      email: "mars@gmail.com",
+      password: "123456"
     };
   },
 

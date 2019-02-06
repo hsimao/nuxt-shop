@@ -1,22 +1,9 @@
-# nuxt-shop
+## Nuxt SSR 商店
 
-> My stupendous Nuxt.js project
+#### 使用框架 Nuxtjs、bulma css
 
-## Build Setup
+#### 資料庫 Firebase
 
-``` bash
-# install dependencies
-$ yarn install
+#### 部署空間 Now https://zeit.co/now
 
-# serve with hot reload at localhost:3000
-$ yarn run dev
-
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+### demo https://nuxt-shop.now.sh/

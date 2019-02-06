@@ -60,3 +60,11 @@ section.no-top-pad {
     transform: translateY(15px);
   }
 }
+
+/* 覆蓋swal樣式 */
+.swal-modal {
+  border-radius: 0;
+}
+.swal-button {
+  border-radius: 0;
+}
