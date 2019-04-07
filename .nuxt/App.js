@@ -14,7 +14,7 @@ import _6f6c098b from '../layouts/default.vue'
 const layouts = { "_default": _6f6c098b }
 
 export default {
-  head: {"title":"Nuxt Stop","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"Nuxt Stop - A Nuxt Project"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"},{"rel":"stylesheet","href":"\u002Fbulma.css"},{"rel":"stylesheet","href":"\u002Fstyles.css"},{"rel":"stylesheet","href":"\u002Ffont-awesome.min.css"}],"script":[{"src":"\u002Futil.js","type":"text\u002Fjavascript"}],"style":[]},
+  head: {"title":"Nuxt Shop","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"Nuxt Shop - A Nuxt Project"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"},{"rel":"stylesheet","href":"\u002Fbulma.css"},{"rel":"stylesheet","href":"\u002Fstyles.css"},{"rel":"stylesheet","href":"\u002Ffont-awesome.min.css"}],"script":[{"src":"\u002Futil.js","type":"text\u002Fjavascript"}],"style":[]},
 
   render(h, props) {
     const loadingEl = h('nuxt-loading', { ref: 'loading' })
