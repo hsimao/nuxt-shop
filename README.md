@@ -4,6 +4,6 @@
 
 #### 資料庫 Firebase
 
-#### 部署空間 Now https://zeit.co/now
+#### 部署空間 VPS https://www.linode.com/
 
-### demo https://nuxt-shop.now.sh/
+### demo https://nuxt-shop.hsimao.org/
