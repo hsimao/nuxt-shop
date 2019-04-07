@@ -89,11 +89,11 @@ pm2-cluster-sample.json
 pm2-fork-sample.json
 
 # deoloy 不必上傳的資料
-assets
-components
-layouts
-middleware
-mixins
-pages
-store
+/assets
+/components
+/layouts
+/middleware
+/mixins
+/pages
+/store
 package-lock.json
